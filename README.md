@@ -4,6 +4,5 @@
 -🧠Programador fullstack, me quiero especializar en el backend con: ASP.NET || C# ||
 -🎨Frontend: HTML, CSS
 -🎮Me gusta la rama de videojuegos, utilizo el engine GODOT y el lenguaje C#, pero es mas como un hobby.
-
-##Lenguajes y Herramientas que utilizo (No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaria dominar.)
+<h2>Lenguajes y Herramientas que utilizo (No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaria dominar.)</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,godot,mysql,visualstudio,vscode)](https://skillicons.dev)
