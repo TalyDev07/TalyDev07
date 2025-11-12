@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Lenguajes y herramientas que utilizo</h2>
-<p><em>No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaría dominar.</em></p>
+<p><em>No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaría dominar de momento.</em></p>
 
 <p>
   <a href="https://skillicons.dev">
