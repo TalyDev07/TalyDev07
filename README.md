@@ -2,10 +2,11 @@
 <h1>Sobre mí</h1>
 
 <ul>
-  <li>👨🏽‍💻 Soy un nuevo desarrollador, busco mejorar mis habilidades con cada proyecto que realizo.</li>
+  <li>👨🏽‍💻 Soy un nuevo desarrollador, busco mejorar mis habilidades con cada proyecto que realizo y explorar nuevas ramas que resuenen más conmigo.</li>
   <li>🧠 Programador Full Stack, me quiero especializar en el backend con: <strong>ASP.NET</strong> || <strong>C#</strong></li>
   <li>🎨 Frontend: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Blazor a futuro</strong></li>
   <li>🎮 Me gusta la rama de videojuegos, utilizo el engine <strong>Godot</strong> y el lenguaje <strong>C#</strong>, pero es más como un hobby.</li>
+  <li>📚Learning software architecture <strong>self-taught<strong></li>
 </ul>
 
 <h2>Lenguajes y herramientas que utilizo</h2>
