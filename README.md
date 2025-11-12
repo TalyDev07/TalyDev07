@@ -1,8 +1,18 @@
 
-<h1>Sobre mi:</h1> 
--👨🏽‍💻Soy un nuevo desarrollador, busco mejorar mis habilidades por cada proyecto que hago.
--🧠Programador fullstack, me quiero especializar en el backend con: ASP.NET || C# ||
--🎨Frontend: HTML, CSS
--🎮Me gusta la rama de videojuegos, utilizo el engine GODOT y el lenguaje C#, pero es mas como un hobby.
-<h2>Lenguajes y Herramientas que utilizo (No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaria dominar.)</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,godot,mysql,visualstudio,vscode)](https://skillicons.dev)
+<h1>Sobre mí</h1>
+
+<ul>
+  <li>👨🏽‍💻 Soy un nuevo desarrollador, busco mejorar mis habilidades con cada proyecto que realizo.</li>
+  <li>🧠 Programador Full Stack, me quiero especializar en el backend con: <strong>ASP.NET</strong> || <strong>C#</strong></li>
+  <li>🎨 Frontend: <strong>HTML</strong>, <strong>CSS</strong></li>
+  <li>🎮 Me gusta la rama de videojuegos, utilizo el engine <strong>Godot</strong> y el lenguaje <strong>C#</strong>, pero es más como un hobby.</li>
+</ul>
+
+<h2>Lenguajes y herramientas que utilizo</h2>
+<p><em>No domino todas, recalco que soy nuevo Dev, pero esto es lo que me gustaría dominar.</em></p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,godot,mysql,visualstudio,vscode" alt="My Skills">
+  </a>
+</p>
